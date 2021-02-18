@@ -4,7 +4,7 @@ I’m Alvin, I make web products and games.
 
 ## Currently
 
-- 📈 Working on charts with [@wsj](https://github.com/wsj).
+- 📈 Working on charts with [@dowjones](https://github.com/dowjones).
 - 📚 Organising my [digital bookshelf](https://alvin.codes/reading).
 - 💬 Ask me about audio drama, George Orwell and remote work.
 
