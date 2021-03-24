@@ -6,7 +6,7 @@ I’m Alvin, I make web products and games and love coding maps and 3D graphics.
 
 - 📈 Working on charts with [@dowjones](https://github.com/dowjones).
 - 📚 Organising my [digital bookshelf](https://alvin.codes/reading).
-- 💬 Ask me about audio drama, George Orwell and remote work.
+- 💬 Ask me about [audio drama](https://alvin.codes/writing/audio-drama), George Orwell and remote work.
 
 ## My Latest articles
 
