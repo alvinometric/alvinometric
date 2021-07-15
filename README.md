@@ -10,6 +10,7 @@ I’m Alvin, I like coding websites, games, maps and 3D graphics.
 
 ## My Latest articles
 
+- 🕵️‍♂️ [What's the problem with metadata?](https://alvin.codes/writing/metadata)
 - 🧠 [Second brains, personal knowledge, and my workflow with Obsidian](https://alvin.codes/writing/second-brains-personal-knowledge)
 - 📝 [Note-taking apps for the data conscious](https://alvin.codes/writing/note-taking-apps)
 - ☘️ [Digital Gardens](https://alvin.codes/writing/digital-gardens)
