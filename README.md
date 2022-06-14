@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Alvin, I'm a developer advocate @contentful. I like coding websites, games, maps and 3D graphics. 
+I’m Alvin, I'm a developer advocate [@contentful](https://github.com/contentful). I like coding websites, games, maps and 3D graphics. 
 
 - 📈 I was previously working on charts with [@dowjones](https://github.com/dowjones).
 - 💬 Ask me about [audio drama](https://alvin.codes/writing/audio-drama), George Orwell and remote work.
