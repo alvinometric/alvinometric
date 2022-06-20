@@ -7,9 +7,9 @@ I’m Alvin, I'm a developer advocate [@contentful](https://github.com/contentfu
 
 ## My Latest articles
 
+- 🕸️ [Arranging objects in 2D and 3D](https://alvin.codes/writing/arranging-2d-3d)
 - 🕵️‍♂️ [What's the problem with metadata?](https://alvin.codes/writing/metadata)
 - 🧠 [Second brains, personal knowledge, and my workflow with Obsidian](https://alvin.codes/writing/second-brains-personal-knowledge)
-- 📝 [Note-taking apps for the data conscious](https://alvin.codes/writing/note-taking-apps)
 - ☘️ [Digital Gardens](https://alvin.codes/writing/digital-gardens)
 
 ## Around the web 🌎:
