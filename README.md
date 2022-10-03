@@ -11,6 +11,7 @@ I like coding websites, games, maps and 3D graphics. I was previously working on
 
 ## My Latest articles
 
+- 👔 [On Layoffs](https://alvin.codes/writing/layoffs)
 - 🧑‍💻 [Learning to code in times of crisis](https://alvin.codes/writing/learning-to-code)
 - 😊 [Alvin Bryan joins the Contentful Developer Relations team](https://www.contentful.com/blog/2022/06/28/alvin-bryan-joins-the-contentful-developer-relations-team/)
 - 🔐 [How ethical alternatives succeed: a Signal case study](https://alvin.codes/writing/signal-ethical-case-study)
