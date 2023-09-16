@@ -5,12 +5,13 @@
 
 I’m Alvin, I'm a developer advocate [@contentful](https://github.com/contentful). 
 
-I like coding websites, games, maps and 3D graphics. I was previously working on 📈 charts for [@dowjones](https://github.com/dowjones).
+I like coding websites, games, maps and 3D. I was previously working on 📈 charts for [@dowjones](https://github.com/dowjones)/[@wsj](https://github.com/wsj).
 
 ---
 
 ## My Latest articles
 
+- 🥑 [A year as a Developer Advocate](https://alvin.codes/writing/devrel-1-year)
 - 👔 [On Layoffs](https://alvin.codes/writing/layoffs)
 - 🧑‍💻 [Learning to code in times of crisis](https://alvin.codes/writing/learning-to-code)
 - 😊 [Alvin Bryan joins the Contentful Developer Relations team](https://www.contentful.com/blog/2022/06/28/alvin-bryan-joins-the-contentful-developer-relations-team/)
