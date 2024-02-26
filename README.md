@@ -9,8 +9,9 @@ I like coding websites, games, maps and 3D. I was previously working on 📈 cha
 
 ---
 
-## My Latest articles
+## Some writing
 
+- 🚀 [How I moved my website from Gatsby to Astro](https://alvin.codes/writing/gatsby-to-astro)
 - 🥑 [A year as a Developer Advocate](https://alvin.codes/writing/devrel-1-year)
 - 👔 [On Layoffs](https://alvin.codes/writing/layoffs)
 - 🧑‍💻 [Learning to code in times of crisis](https://alvin.codes/writing/learning-to-code)
