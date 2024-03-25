@@ -5,7 +5,7 @@
 
 I’m Alvin, I'm a developer advocate 🥑. 
 
-I like coding websites, games, maps and 3D. I was previously working on 📈 charts for [@dowjones](https://github.com/dowjones)/[@wsj](https://github.com/wsj).
+I like coding websites, games, maps and 3D. Previously: DevRel for [@contentful](https://github.com/contentful), charts for [@dowjones](https://github.com/dowjones)/[@wsj](https://github.com/wsj).
 
 ---
 
